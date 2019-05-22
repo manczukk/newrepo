@@ -1,6 +1,6 @@
 function double(num){
-  return num * num;
+  return num * 2;
 }
 
-let a = 2;
-console.log(double(a));
+let result = double(5);
+console.log(result);
